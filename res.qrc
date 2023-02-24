@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/new">
+        <file>pic/BackGround.png</file>
+        <file>pic/Lock.png</file>
+        <file>pic/Unlock.png</file>
+    </qresource>
+</RCC>
